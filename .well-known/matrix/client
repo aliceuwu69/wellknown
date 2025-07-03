@@ -1,4 +1,4 @@
-client{
+{
   "m.homeserver": {
     "base_url": "https://systemdeath.myftp.org"
   }
